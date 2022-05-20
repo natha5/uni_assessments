@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+   <title>Your Page Title</title>
+
+</head>
+
+<body>
+
+   <h1>Heading for this page</h1>
+   <p>My first paragraph of text on my shiny new webpage</p>
+
+</body>
+
+</html>
